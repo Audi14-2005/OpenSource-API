@@ -24,7 +24,7 @@ This is a **developer-centric hub of APIs**, crafted and maintained to help deve
 
 ## 📁 Folder Structure
 
-```
+```bash
 
 DevAPI-Hub/
 ├── README.md
